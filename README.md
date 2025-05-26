@@ -52,8 +52,8 @@ streamlit run main.py
 
 
 📝 How It Works
-Enter a URL of a job listing.
-The app scrapes and cleans the job description.
-It uses Llama 3.1 (via LangChain) to extract skills and role details.
-Queries ChromaDB to retrieve matching internal talent profiles.
-Generates a personalized cold email pitch.
+-Enter a URL of a job listing.
+-The app scrapes and cleans the job description.
+-It uses Llama 3.1 (via LangChain) to extract skills and role details.
+-Queries ChromaDB to retrieve matching internal talent profiles.
+-Generates a personalized cold email pitch.
