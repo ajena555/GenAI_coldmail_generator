@@ -37,7 +37,7 @@ A fictional service brand uses this app to:
 ## Installation & Setup
 
 1. **Clone the repository**
-   git clone https://github.com/yourusername/cold-mail-generator.git
+   git clone https://github.com/ajena555/GenAI_coldmail_generator/tree/main/Cold%20mail%20generator.git
    cd cold-mail-generator
 
 2. **Create a virtual environment**
