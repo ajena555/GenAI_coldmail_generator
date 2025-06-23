@@ -1,5 +1,5 @@
 import streamlit as st
-import onnxruntime
+#import onnxruntime
 from langchain_community.document_loaders import WebBaseLoader
 
 from chains import Chain
